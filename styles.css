@@ -245,7 +245,21 @@ a:hover {
   gap: 0.75rem;
 }
 
-.edu-grid div {
+.subsection {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: 1.5rem 0 0.85rem;
+}
+
+.subsection:first-of-type {
+  margin-top: 0;
+}
+
+.edu-card {
+  display: block;
   background: var(--card);
   border: 1px solid var(--border);
   border-radius: 8px;
@@ -254,13 +268,42 @@ a:hover {
   color: var(--muted);
 }
 
-.edu-grid strong {
-  color: var(--text);
+a.edu-card {
+  color: inherit;
+  transition: border-color 0.15s;
 }
 
-.edu-grid time {
+a.edu-card:hover {
+  border-color: rgba(59, 130, 246, 0.4);
+  text-decoration: none;
+}
+
+.edu-card.ms {
+  border-color: rgba(59, 130, 246, 0.25);
+  background: linear-gradient(135deg, var(--card), rgba(59, 130, 246, 0.06));
+}
+
+.edu-card strong {
+  color: var(--text);
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.edu-code {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #93c5fd;
+  margin-bottom: 0.25rem;
+}
+
+.edu-card time {
   font-size: 0.75rem;
   opacity: 0.85;
+}
+
+.edu-list li {
+  margin-bottom: 0.55rem;
 }
 
 .content {

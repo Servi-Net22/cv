@@ -78,12 +78,26 @@ Proyecto vitivinícola propio.
 
 ## Formación
 
+### Microsoft Learn
+Perfil: [121 badges · 31 trofeos · Nivel 11](https://learn.microsoft.com/en-us/users/cristiansambucetti-1526/credentials)
+
+| Curso | Código | Completado |
+|---|---|---|
+| Microsoft Azure Administrator | AZ-104 | Sep 2025 |
+| Microsoft Cybersecurity Architect | SC-100 | Ene 2025 |
+| Designing and Implementing a Microsoft Azure AI Solution | AI-102 | Ene 2025 |
+| Microsoft Azure AI Fundamentals | AI-900 | Jul 2024 |
+
+Rutas de aprendizaje: AZ-104 (6 rutas), SC-100 (4 rutas), Azure OpenAI, Azure AI Services, entre otras.
+
+### Académica y técnica
+
 | Institución | Curso | Período |
 |---|---|---|
 | UTN Facultad Regional Delta | Administrador de Redes Linux — Ciberseguridad, Ethical Hacking | 2025 – Presente |
 | EducacionIT | Mikrotik — Administrador de Redes | 2022 |
-| Microsoft | AZ-104T00-A — Microsoft Azure Administrator | 2022 |
 | EducacionIT | Seguridad Informática, Python, Linux, SQL, Criptografía | 2021 – 2022 |
+| Microsoft | AZ-104T00-A — Microsoft Azure Administrator (presencial) | 2022 |
 | NexTu | Marketing Digital | 2018 – 2019 |
 | Curso | Técnico en Energía Solar Fotovoltaica | 2019 |
 | 3M | Implementación de Redes FTTH — Tecnologías PON | 2014 |
@@ -98,16 +112,7 @@ Proyecto vitivinícola propio.
 ## Certificaciones
 
 ### Microsoft Learn
-Perfil: [121 badges · 31 trofeos · Nivel 11](https://learn.microsoft.com/en-us/users/cristiansambucetti-1526/credentials)
-
-| Curso | Código | Completado |
-|---|---|---|
-| Microsoft Azure Administrator | AZ-104 | Sep 2025 |
-| Microsoft Cybersecurity Architect | SC-100 | Ene 2025 |
-| Designing and Implementing a Microsoft Azure AI Solution | AI-102 | Ene 2025 |
-| Microsoft Azure AI Fundamentals | AI-900 | Jul 2024 |
-
-Rutas de aprendizaje completadas: AZ-104 (6 rutas), SC-100 (4 rutas), Azure OpenAI, Azure AI Services, entre otras.
+Ver sección Formación arriba para cursos completados.
 
 ### Otras certificaciones
 
