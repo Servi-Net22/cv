@@ -1,6 +1,6 @@
 # Cristian E. Sambucetti
 
-**Redes · Telecomunicaciones · Fibra Óptica · Seguridad · Administración**
+**Redes · Telecomunicaciones · Fibra Óptica · Ciberseguridad · Azure · Administración**
 
 ---
 
@@ -12,53 +12,59 @@
 | **Email personal** | [sambucetti54@gmail.com](mailto:sambucetti54@gmail.com) |
 | **Email laboral** | [cristian@servi-net.com.ar](mailto:cristian@servi-net.com.ar) |
 | **Empresa** | [www.servi-net.com.ar](https://www.servi-net.com.ar) |
+| **LinkedIn** | [cristian-sambucetti-06586041](https://www.linkedin.com/in/cristian-sambucetti-06586041/) |
+| **Microsoft Learn** | [cristiansambucetti-1526](https://learn.microsoft.com/en-us/users/cristiansambucetti-1526/credentials) |
 | **Ubicación** | Mariano Acosta 55 — Adolfo Sordeaux, Gran Buenos Aires, Argentina |
 
 ---
 
 ## Perfil
 
-Profesional con amplia experiencia en diseño e implementación de redes de fibra óptica (FTTH/GPON), transmisión de datos, sistemas informáticos y de seguridad. Experiencia en gestión empresarial, coordinación de equipos técnicos y administrativos, y emprendimientos propios en telecomunicaciones e IT.
+Amplios conocimientos en desarrollo de redes de fibra óptica (FTTH/GPON), equipamiento, sistemas informáticos y de seguridad (cámaras, alarmas). Administrador de redes, ciberseguridad y virtualización (Proxmox VE). Más de **28 años** de experiencia en telecomunicaciones, transmisión de datos, gestión empresarial y emprendimientos en IT.
 
 ---
 
 ## Aptitudes principales
 
-- Redes informáticas y FTTH / GPON
-- Telecomunicaciones y fibra óptica
-- Sistemas de seguridad (cámaras, alarmas)
-- Administración y gestión empresarial
-- Electricista (instalaciones)
-- Project Management
+- Redes FTTH / GPON · Telecomunicaciones · Fibra óptica
+- Administración de redes TI · Ciberseguridad · Firewall · IDS/IPS
+- Virtualización: Proxmox VE, cluster, PBS, backup
+- Azure: administración, identidad, redes, almacenamiento, IA
+- Mikrotik · Ubiquiti · VLANs · WiFi · Segmentación
+- Sistemas de seguridad (CCTV, alarmas)
+- Project Management · Administración empresarial
 
 ---
 
 ## Experiencia
 
-### Servi-Net — Socio
-**Abr 2011 – Presente** · Emprendimiento personal
+### Servi-Net — Socio / Administrador de Redes de TI
+**Abr 2007 – Presente** · Emprendimiento personal
 
-Venta, reparaciones e instalaciones de redes informáticas, telefónicas y equipamiento (routers, switches, access points, wireless, computadoras).
+- Venta, reparaciones e instalaciones de redes informáticas, telefónicas y equipamiento.
+- Administración de redes TI: hypervisor Proxmox VE, cluster, PBS, backup.
+- Redes LAN, WiFi, segmentación, VLANs. AP Ubiquiti, router/switch Mikrotik.
+- Firewall, IDS/IPS.
 
 ### Datta Red SRL / Sonal SRL — Técnico administrativo
-**2015 – 2019**
+**Ene 2016 – Jun 2020**
 
-Tareas gerenciales y administrativas: cuentas bancarias, facturación, pagos a proveedores, conciliaciones, cobranzas. Visitas a clientes, manejo de personal administrativo y técnico, coordinación de obras FTTH.
+Administración de cuentas bancarias, facturación, pagos a proveedores, cargas web. Visitas a clientes, coordinación de obras FTTH, asesoramiento de redes. Manejo de personal administrativo y técnico.
 
 ### MasInternet SRL — Socio
-**Abr 2016 – 2019** · Dique Luján
+**Abr 2016 – May 2019** · Dique Luján
 
-Servicios de telecomunicaciones. Internet por fibra óptica, red FTTH. Tareas gerenciales, apoyo técnico, atención a clientes y proveedores.
+Servicios de telecomunicaciones. Internet por fibra óptica, red FTTH. Gestión, apoyo técnico, atención a clientes y proveedores.
 
 ### Cotelcam Ltda. — Técnico / Project Manager
-**Ago 1997 – 2015** (18 años) · Buenos Aires
+**Ago 1997 – Ene 2015** · Buenos Aires
 
 - **Project Manager** (Jun 2013 – Jun 2015): gestión de proyectos.
 - **Red FTTH – GPON** (2012 – Jun 2015): diseño e implementación de red.
-- **Transmisión de datos – Fibra óptica** (2012 – 2015): diseño de red, configuración SDH, instalaciones.
-- **Técnico** (1997 – 2015): área de transmisión de datos y fibra óptica para empresas.
+- **Transmisión de datos – Fibra óptica** (2012 – 2015): diseño, configuración SDH, instalaciones.
+- **Técnico** (1997 – 2015): área de transmisión de datos y fibra óptica.
 
-### Community Manager
+### Community Manager — Varias
 **Oct 2018 – Presente** · Gran Buenos Aires
 
 Desarrollo y práctica en gestión de comunidades digitales.
@@ -72,18 +78,48 @@ Proyecto vitivinícola propio.
 
 ## Formación
 
-| Institución | Curso | Año |
+| Institución | Curso | Período |
 |---|---|---|
-| NexTu | Marketing Digital | 2018 |
-| 3M | Implementación de Redes FTTH – Tecnologías PON | 2014 |
+| UTN Facultad Regional Delta | Administrador de Redes Linux — Ciberseguridad, Ethical Hacking | 2025 – Presente |
+| EducacionIT | Mikrotik — Administrador de Redes | 2022 |
+| Microsoft | AZ-104T00-A — Microsoft Azure Administrator | 2022 |
+| EducacionIT | Seguridad Informática, Python, Linux, SQL, Criptografía | 2021 – 2022 |
+| NexTu | Marketing Digital | 2018 – 2019 |
+| Curso | Técnico en Energía Solar Fotovoltaica | 2019 |
+| 3M | Implementación de Redes FTTH — Tecnologías PON | 2014 |
 | Serprotel | Diseño e Implementación de Redes de Acceso Óptico | 2012 |
-| Iditel | Empalmador de Fibra Óptica | 2012 |
-| Iditel | Mediciones, Fibra Óptica | 2012 |
-| Centro de Formación Nº 402 – Escobar | Electricista – Instalador (Res. Min. 2265/01) | 2009 |
+| Iditel | Empalmador y Mediciones, Fibra Óptica | 2012 |
+| Centro de Formación Nº 402 – Escobar | Electricista – Instalador | 2009 |
 | Instituto Citech | Administrador de Redes CCNA | 2009 – 2011 |
 | UAI | Inglés | 2009 – 2010 |
 
-> **Próxima actualización:** certificaciones de [Microsoft Learn](https://learn.microsoft.com/) y perfil de [LinkedIn](https://www.linkedin.com/).
+---
+
+## Certificaciones
+
+### Microsoft Learn
+Perfil: [121 badges · 31 trofeos · Nivel 11](https://learn.microsoft.com/en-us/users/cristiansambucetti-1526/credentials)
+
+| Curso | Código | Completado |
+|---|---|---|
+| Microsoft Azure Administrator | AZ-104 | Sep 2025 |
+| Microsoft Cybersecurity Architect | SC-100 | Ene 2025 |
+| Designing and Implementing a Microsoft Azure AI Solution | AI-102 | Ene 2025 |
+| Microsoft Azure AI Fundamentals | AI-900 | Jul 2024 |
+
+Rutas de aprendizaje completadas: AZ-104 (6 rutas), SC-100 (4 rutas), Azure OpenAI, Azure AI Services, entre otras.
+
+### Otras certificaciones
+
+| Certificación | Emisor | Fecha |
+|---|---|---|
+| MSP Academy: XDR Basics | Acronis | Jul 2024 |
+| API-REST con NodeJs y Express | DonWeb | Ago 2023 |
+| Desarrollo rápido con Low Code | DonWeb | Abr 2023 |
+| Introduction to Cybersecurity | Cisco | Ene 2022 |
+| Introduction to IoT | Cisco | Ene 2022 |
+| Cloud Tech Fundamentals | Acronis | Dic 2022 |
+| Cloud Sales Associate — Disaster Recovery | Acronis | Dic 2022 |
 
 ---
 
@@ -111,4 +147,4 @@ Proyecto vitivinícola propio.
 
 ---
 
-*CV basado en versión 1.7 (oct 2025). Fuente: PDF original.*
+*Actualizado jun 2026 · Fuentes: [LinkedIn](https://www.linkedin.com/in/cristian-sambucetti-06586041/) · [Microsoft Learn](https://learn.microsoft.com/en-us/users/cristiansambucetti-1526/credentials)*

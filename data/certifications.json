@@ -1,8 +1,97 @@
 {
-  "microsoft": [],
   "linkedin": {
-    "profileUrl": null,
-    "lastSynced": null
+    "profileUrl": "https://www.linkedin.com/in/cristian-sambucetti-06586041/",
+    "lastSynced": "2026-06-23"
   },
-  "notes": "Completar con certificaciones de learn.microsoft.com y datos de LinkedIn."
+  "microsoftLearn": {
+    "profileUrl": "https://learn.microsoft.com/en-us/users/cristiansambucetti-1526/credentials",
+    "stats": {
+      "badges": 121,
+      "trophies": 31,
+      "level": 11
+    },
+    "lastSynced": "2026-06-23",
+    "courses": [
+      {
+        "title": "Microsoft Azure Administrator",
+        "code": "AZ-104",
+        "url": "https://learn.microsoft.com/en-us/training/courses/az-104t00/",
+        "completed": "2025-09"
+      },
+      {
+        "title": "Microsoft Cybersecurity Architect",
+        "code": "SC-100",
+        "url": "https://learn.microsoft.com/en-us/training/courses/sc-100t00/",
+        "completed": "2025-01"
+      },
+      {
+        "title": "Designing and Implementing a Microsoft Azure AI Solution",
+        "code": "AI-102",
+        "completed": "2025-01"
+      },
+      {
+        "title": "Microsoft Azure AI Fundamentals",
+        "code": "AI-900",
+        "completed": "2024-07"
+      }
+    ],
+    "learningPaths": [
+      "AZ-104: Monitor and back up Azure resources",
+      "AZ-104: Deploy and manage Azure compute resources",
+      "AZ-104: Implement and manage storage in Azure",
+      "AZ-104: Configure and manage virtual networks for Azure administrators",
+      "AZ-104: Manage identities and governance in Azure",
+      "AZ-104: Prerequisites for Azure administrators",
+      "Develop Generative AI solutions with Azure OpenAI Service",
+      "SC-100: Design security solutions for infrastructure",
+      "SC-100: Design security solutions for applications and data",
+      "SC-100: Design security operations, identity, and compliance capabilities",
+      "SC-100: Design solutions that align with security best practices and priorities"
+    ]
+  },
+  "other": [
+    {
+      "title": "MSP Academy: XDR Basics",
+      "issuer": "Acronis",
+      "issued": "2024-07",
+      "expires": "2025-07",
+      "url": "https://credly.com/badges/1c19bc41-0a4b-45e4-a6f5-a4502fd6d61e"
+    },
+    {
+      "title": "Crea tu propia API-REST con NodeJs y Express",
+      "issuer": "DonWeb",
+      "issued": "2023-08",
+      "url": "https://certificados.donweb.com/72/72_sambucetti54@gmail.com"
+    },
+    {
+      "title": "Desarrollo rápido de aplicaciones con Low Code",
+      "issuer": "DonWeb",
+      "issued": "2023-04",
+      "url": "https://guias.donweb.com/certificados-curso-lowcode-2023/cristian_servi-net_com_ar"
+    },
+    {
+      "title": "Introduction to Cybersecurity",
+      "issuer": "Cisco",
+      "issued": "2022-01",
+      "url": "https://credly.com/badges/551f6952-0288-4b42-8426-ffd472d4c6e8"
+    },
+    {
+      "title": "Introduction to IoT",
+      "issuer": "Cisco",
+      "issued": "2022-01",
+      "url": "https://credly.com/badges/6bb14b50-0c98-444e-a4c4-e3c01f513e42"
+    },
+    {
+      "title": "Cloud Tech Fundamentals",
+      "issuer": "Acronis",
+      "issued": "2022-12",
+      "url": "https://credly.com/badges/fcad01b2-a14e-45da-a7a8-20e4157d7c82"
+    },
+    {
+      "title": "Cloud Sales Associate Advanced Disaster Recovery",
+      "issuer": "Acronis",
+      "issued": "2022-12",
+      "url": "https://credly.com/badges/1cab9c6e-7f3c-4d14-bcba-3bab96116e6f"
+    }
+  ]
 }

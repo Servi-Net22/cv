@@ -1,45 +1,30 @@
 # Plan de actualización del CV
 
-Contenido actual basado en **CV Sambucetti Cristian V.1.7.pdf** (oct 2025).
+Última sincronización: **jun 2026** desde LinkedIn y Microsoft Learn.
 
-## Fuentes pendientes
+## Fuentes sincronizadas
 
 ### LinkedIn
-- URL del perfil (agregar cuando esté disponible)
-- Experiencia laboral actualizada (fechas, descripciones)
-- Formación y certificaciones listadas en el perfil
-- Aptitudes y endorsements relevantes
+- Perfil: https://www.linkedin.com/in/cristian-sambucetti-06586041/
+- Experiencia, formación y certificaciones (Cisco, Acronis, DonWeb)
 
 ### Microsoft Learn
-- Perfil: https://learn.microsoft.com/es-es/users/
-- Certificaciones obtenidas (badges)
-- Rutas de aprendizaje completadas
-- Skills medidos en assessments
+- Perfil: https://learn.microsoft.com/en-us/users/cristiansambucetti-1526/credentials
+- 121 badges · 31 trofeos · Nivel 11
+- Cursos: AZ-104, SC-100, AI-102, AI-900
 
-## Archivos a actualizar
+## Pendiente
 
-| Archivo | Qué cambiar |
-|---------|-------------|
-| `cv.md` | Fuente principal — editar aquí primero |
-| `index.html` | Reflejar cambios del Markdown |
-| `data/certifications.json` | Certificaciones Microsoft (estructura preparada) |
-| `docs/` | Nuevo PDF cuando se regenere |
+- [ ] Regenerar PDF con contenido actualizado
+- [ ] Re-sincronizar cuando haya nuevas certificaciones
 
-## Estructura sugerida para certificaciones
+## Archivos del CV
 
-```json
-{
-  "microsoft": [
-    {
-      "title": "Nombre del badge",
-      "issuer": "Microsoft",
-      "date": "2025-06",
-      "url": "https://learn.microsoft.com/...",
-      "credentialId": "opcional"
-    }
-  ]
-}
-```
+| Archivo | Rol |
+|---------|-----|
+| `cv.md` | Fuente principal |
+| `index.html` | Sitio web |
+| `data/certifications.json` | Datos estructurados de certificaciones |
 
 ## Comandos útiles
 
@@ -47,7 +32,6 @@ Contenido actual basado en **CV Sambucetti Cristian V.1.7.pdf** (oct 2025).
 # Publicar en GitHub
 ./scripts/setup-github.sh
 
-# Vista local del sitio
+# Vista local
 python3 -m http.server 8080 --directory /home/servinet/CV
-# Abrir http://localhost:8080
 ```
