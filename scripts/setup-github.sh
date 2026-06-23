@@ -28,12 +28,13 @@ else
   git remote add origin "git@github.com:${REPO}.git" 2>/dev/null || git remote set-url origin "git@github.com:${REPO}.git"
 fi
 
+if ! "$GH" api "repos/$REPO/pages" >/dev/null 2>&1; then
+  echo "Habilitando GitHub Pages (GitHub Actions)..."
+  "$GH" api "repos/$REPO/pages" -X POST -f build_type=workflow
+fi
+
 git push -u origin main
 
 echo ""
-echo "Habilitá GitHub Pages:"
-echo "  $GH api repos/$REPO/pages -X POST -f source[branch]=main -f source[path]=/"
-echo ""
-echo "O en la web: Settings → Pages → Source: GitHub Actions"
-echo ""
 echo "Sitio: https://servi-net22.github.io/cv/"
+echo "El deploy corre automáticamente en cada push a main."
