@@ -9,25 +9,24 @@ Repositorio del CV personal con versión web, Markdown y PDF.
 | `index.html` | CV web (GitHub Pages) |
 | `styles.css` | Estilos del CV web |
 | `cv.md` | Fuente en Markdown, fácil de editar |
-| `docs/CV-Sambucetti-Cristian-v1.7.pdf` | PDF original (oct 2025) |
+| `docs/CV-Sambucetti-Cristian-2026.pdf` | PDF actualizado (jun 2026) |
+| `scripts/generate-pdf.sh` | Regenerar PDF desde el HTML |
 
 ## Ver en línea
 
-Una vez publicado en GitHub Pages:
-
 **https://servi-net22.github.io/cv/**
 
-## Próximas actualizaciones
+## Regenerar PDF
 
-- [ ] Sincronizar experiencia y formación desde **LinkedIn**
-- [ ] Agregar certificaciones de **Microsoft Learn** ([learn.microsoft.com](https://learn.microsoft.com/))
-- [ ] Actualizar fechas y roles recientes
+```bash
+./scripts/generate-pdf.sh
+```
 
 ## Editar el CV
 
 1. Modificar `cv.md` como fuente principal
 2. Reflejar los cambios en `index.html`
-3. Opcional: reemplazar el PDF en `docs/`
+3. Ejecutar `./scripts/generate-pdf.sh` para actualizar el PDF
 
 ## GitHub Pages
 

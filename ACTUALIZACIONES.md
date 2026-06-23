@@ -15,7 +15,7 @@
 
 ## Pendiente
 
-- [ ] Regenerar PDF con contenido actualizado
+- [x] Regenerar PDF con contenido actualizado
 - [ ] Re-sincronizar cuando haya nuevas certificaciones
 
 ## Archivos del CV

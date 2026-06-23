@@ -464,19 +464,86 @@ footer {
   body {
     background: #fff;
     color: #111;
+    font-size: 10pt;
+  }
+
+  .page {
+    grid-template-columns: 1fr;
+    max-width: none;
   }
 
   .sidebar {
     background: #f8fafc;
     color: #111;
+    border-right: none;
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0;
+    page-break-after: avoid;
+  }
+
+  .profile h1,
+  .edu-list strong,
+  .job h3,
+  .edu-card strong,
+  .refs-grid strong {
+    color: #111;
+  }
+
+  .contact-list a,
+  .tags li {
+    color: #333;
+  }
+
+  .tags li {
+    background: #eef2ff;
+    border-color: #c7d2fe;
+    color: #3730a3;
+  }
+
+  .ms-stats .stats-row div {
+    background: #eef2ff;
+    border-color: #c7d2fe;
+  }
+
+  .ms-stats .stats-row strong {
+    color: #1d4ed8;
   }
 
   .job,
-  .refs-grid div {
+  .refs-grid div,
+  .cert-card,
+  .edu-card {
+    background: #fff;
+    border-color: #ddd;
     break-inside: avoid;
   }
 
-  .actions {
+  .cert-card.highlight,
+  .edu-card.ms {
+    background: #f8fafc;
+    border-color: #93c5fd;
+  }
+
+  .content {
+    padding: 1rem 0;
+  }
+
+  .actions,
+  footer {
     display: none;
+  }
+
+  .content h2 {
+    color: #111;
+    border-bottom-color: #2563eb;
+  }
+
+  .subsection {
+    color: #444;
+  }
+
+  a {
+    color: #1d4ed8;
+    text-decoration: none;
   }
 }
