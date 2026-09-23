@@ -9,8 +9,12 @@ Repositorio del CV personal con versión web, Markdown y PDF.
 | `index.html` | CV web (GitHub Pages) |
 | `styles.css` | Estilos del CV web |
 | `cv.md` | Fuente en Markdown, fácil de editar |
-| `docs/CV-Sambucetti-Cristian-2026.pdf` | PDF actualizado (jun 2026) |
-| `scripts/generate-pdf.sh` | Regenerar PDF desde el HTML |
+| `cartas.html` | Índice de cartas de presentación |
+| `carta-empleo.html` / `.md` | Carta para postulaciones laborales |
+| `carta-clientes.html` / `.md` | Carta comercial Servi-Net |
+| `docs/CV-Sambucetti-Cristian-2026.pdf` | PDF del CV (jun 2026) |
+| `docs/Carta-Sambucetti-*.pdf` | PDFs de las cartas |
+| `scripts/generate-pdf.sh` | Regenerar todos los PDF desde HTML |
 
 ## Ver en línea
 
