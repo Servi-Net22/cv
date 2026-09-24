@@ -79,6 +79,21 @@ body.letter-body {
   text-align: justify;
 }
 
+.letter-list {
+  margin: 0 0 1rem 1.25rem;
+  padding: 0;
+}
+
+.letter-list li {
+  margin-bottom: 0.65rem;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.letter-list strong {
+  color: var(--text);
+}
+
 .letter-doc .placeholder {
   color: #fbbf24;
   background: rgba(234, 179, 8, 0.1);

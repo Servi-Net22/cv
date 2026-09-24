@@ -10,13 +10,27 @@ Adolfo Sordeaux, [fecha]
 
 Estimados/as de **[Empresa / Nombre del contacto]**:
 
-Por medio de la presente me pongo a disposición de **[Empresa]** para ofrecer servicios de consultoría, diseño e implementación en redes informáticas, telecomunicaciones y seguridad, a través de **Servi-Net**, emprendimiento que dirijo desde 2007.
+A través de **Servi-Net** ofrecemos a **[Empresa]** servicios integrales de tecnología, con foco en soluciones confiables, soporte cercano y ejecución en campo. A continuación, un resumen de lo que realizamos y la experiencia que respalda nuestro trabajo.
 
-Nuestro trabajo abarca desde la instalación y mantenimiento de redes LAN y WiFi, enlaces y equipamiento (Mikrotik, Ubiquiti, switches, firewalls), hasta proyectos de mayor envergadura en los que aporto experiencia en fibra óptica, FTTH/GPON y transmisión de datos, adquirida en más de dos décadas en el sector —incluida la etapa en Cotelcam Ltda. como técnico y project manager—. En la actualidad incorporamos buenas prácticas de ciberseguridad, virtualización (Proxmox VE, respaldos) y administración de entornos cloud (Microsoft Azure), con el objetivo de que su infraestructura sea estable, segura y escalable.
+**Servicios**
 
-Entendemos que cada cliente tiene necesidades distintas: cooperativas, pymes, barrios cerrados o empresas de servicios. Por eso priorizamos el diagnóstico claro, la comunicación directa y el soporte posterior a la implementación. Podemos coordinar una visita, relevamiento o propuesta sin compromiso, según el alcance que requieran.
+- Diseño, instalación y mantenimiento de **redes informáticas** (LAN, WiFi, cableado, VLANs).
+- **Telecomunicaciones y conectividad:** enlaces, equipamiento Mikrotik y Ubiquiti, routers, switches y firewalls.
+- **Fibra óptica y FTTH/GPON:** relevamiento, implementación y asesoramiento técnico.
+- **Seguridad:** CCTV, alarmas, hardening de redes, IDS/IPS y respaldo de información.
+- **Virtualización e infraestructura:** Proxmox VE, cluster, PBS, continuidad operativa.
+- **Cloud:** administración y buenas prácticas en **Microsoft Azure** (identidad, redes, almacenamiento).
+- **Soporte y consultoría:** diagnóstico, presupuesto, puesta en marcha y acompañamiento post-instalación.
 
-Quedo a disposición para ampliar cualquier punto o enviar referencias comerciales. Gracias por considerarnos como partner tecnológico.
+**Experiencia**
+
+- Más de **28 años** en telecomunicaciones, redes de datos y sistemas informáticos.
+- Casi **18 años** en Cotelcam Ltda. (transmisión de datos, fibra óptica, FTTH/GPON, project management).
+- Desde **2007**, dirección técnica y comercial de **Servi-Net** (pymes, cooperativas, barrios cerrados y clientes corporativos).
+- Participación en proyectos de **internet por fibra**, obras coordinadas, atención a usuarios finales y gestión con proveedores.
+- **Referencias comerciales** disponibles a solicitud (operadores, cooperativas, empresas de servicios y clientes históricos).
+
+Podemos coordinar una **visita o relevamiento sin compromiso** para evaluar su necesidad y proponer un alcance claro. Quedo a disposición para ampliar cualquier punto o enviar documentación complementaria.
 
 Saludos cordiales,
 
