@@ -2,7 +2,8 @@
 
 **Cristian E. Sambucetti** · Servi-Net  
 Mariano Acosta 55, Adolfo Sordeaux, Gran Buenos Aires  
-011-15-4030-6408 · cristian@servi-net.com.ar · [www.servi-net.com.ar](https://www.servi-net.com.ar)
+011-15-4030-6408 · cristian@servi-net.com.ar · [www.servi-net.com.ar](https://www.servi-net.com.ar)  
+Licencia de conducir vigente · visitas y obras en campo
 
 ---
 

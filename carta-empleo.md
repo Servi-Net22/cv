@@ -3,6 +3,7 @@
 **Cristian E. Sambucetti**  
 Mariano Acosta 55, Adolfo Sordeaux, Gran Buenos Aires  
 011-15-4030-6408 · sambucetti54@gmail.com · cristian@servi-net.com.ar  
+41 años · Licencia de conducir vigente  
 [LinkedIn](https://www.linkedin.com/in/cristian-sambucetti-06586041/)
 
 ---
@@ -20,6 +21,7 @@ Me dirijo a ustedes para presentarme de manera general y expresar mi interés en
 - **Seguridad:** firewalls, IDS/IPS, buenas prácticas de ciberseguridad, sistemas de videovigilancia y alarmas.
 - **Cloud y formación reciente:** Microsoft Azure (AZ-104, SC-100), fundamentos de IA aplicada (AI-102, AI-900); estudios en curso en UTN Delta (redes Linux y ciberseguridad).
 - **Gestión y trabajo en equipo:** coordinación de obras y proyectos, relación con clientes y proveedores, tareas administrativas y liderazgo técnico en entornos exigentes.
+- **Movilidad:** licencia de conducir vigente; disponibilidad para traslados, visitas a clientes y obras en campo.
 
 Me considero una persona responsable, orientada a resolver problemas con criterio y a aprender rápido cuando el rol lo requiere. Adjunto mi curriculum vitae, donde encontrará el detalle de experiencia, certificaciones y referencias.
 

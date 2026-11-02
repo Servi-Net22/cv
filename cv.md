@@ -15,6 +15,8 @@
 | **LinkedIn** | [cristian-sambucetti-06586041](https://www.linkedin.com/in/cristian-sambucetti-06586041/) |
 | **Microsoft Learn** | [cristiansambucetti-1526](https://learn.microsoft.com/en-us/users/cristiansambucetti-1526/credentials) |
 | **Ubicación** | Mariano Acosta 55 — Adolfo Sordeaux, Gran Buenos Aires, Argentina |
+| **Edad** | 41 años |
+| **Licencia de conducir** | Vigente |
 
 ---
 
